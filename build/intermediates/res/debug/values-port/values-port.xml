@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-port/values-port.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_embed_tabs">false</bool>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/res/values-port/dimens.xml -->
+    <eat-comment/>
+    <integer name="apps_customize_widget_cell_count_x">2</integer>
+    <integer name="apps_customize_widget_cell_count_y">3</integer>
+</resources>

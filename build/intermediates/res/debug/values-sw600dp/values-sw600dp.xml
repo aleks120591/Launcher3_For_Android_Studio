@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/WallpaperPicker/res/values-sw600dp/config.xml -->
+    <eat-comment/>
+    <bool name="allow_rotation">true</bool>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/res/values-sw600dp/config.xml -->
+    <eat-comment/>
+    <bool name="is_tablet">true</bool>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-sw600dp/values-sw600dp.xml -->
+    <eat-comment/>
+    <dimen name="abc_action_bar_content_inset_material">24dp</dimen>
+    <dimen name="abc_action_bar_default_height_material">64dp</dimen>
+    <dimen name="abc_action_bar_default_padding_material">4dp</dimen>
+    <dimen name="abc_action_bar_navigation_padding_start_material">8dp</dimen>
+    <dimen name="abc_action_bar_overflow_padding_end_material">18dp</dimen>
+    <dimen name="abc_config_prefDialogWidth">580dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="app_icon_size">64dp</dimen>
+    <dimen name="app_widget_preview_label_margin_left">@dimen/app_widget_preview_padding_left</dimen>
+    <dimen name="app_widget_preview_label_margin_right">@dimen/app_widget_preview_padding_right</dimen>
+    <dimen name="app_widget_preview_label_margin_top">8dp</dimen>
+    <dimen name="apps_customize_tab_bar_height">60dp</dimen>
+    <dimen name="apps_customize_tab_bar_margin_top">8dp</dimen>
+    <dimen name="cling_migration_bg_shift">-300dp</dimen>
+    <dimen name="cling_migration_bg_size">600dp</dimen>
+    <dimen name="cling_migration_content_margin">64dp</dimen>
+    <dimen name="cling_migration_content_width">280dp</dimen>
+    <dimen name="cling_migration_logo_height">400dp</dimen>
+    <dimen name="cling_migration_logo_width">274dp</dimen>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-sw600dp/values-sw600dp.xml -->
+    <eat-comment/>
+    <integer name="abc_max_action_buttons">5</integer>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/res/values-sw600dp/config.xml -->
+    <eat-comment/>
+    <integer name="config_cameraDistance">14000</integer>
+    <integer name="config_flingToDeleteMinVelocity">-1000</integer>
+</resources>

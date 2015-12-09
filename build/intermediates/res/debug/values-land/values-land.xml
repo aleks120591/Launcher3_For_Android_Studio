@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-land/values-land.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/res/values-land/config.xml -->
+    <eat-comment/>
+    <bool name="config_useDropTargetDownTransition">false</bool>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-land/values-land.xml -->
+    <eat-comment/>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_default_padding_material">0dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/res/values-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="apps_customize_tab_bar_height">42dp</dimen>
+    <dimen name="toolbar_button_horizontal_padding">0dip</dimen>
+    <dimen name="toolbar_button_vertical_padding">8dip</dimen>
+    <integer name="apps_customize_widget_cell_count_x">3</integer>
+    <integer name="apps_customize_widget_cell_count_y">2</integer>
+    <!-- From: file:/D:/ish/Launcher3ForAndroidStudio-as/res/values-land/styles.xml -->
+    <eat-comment/>
+    <style name="DropTargetButton" parent="DropTargetButton.Base">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:drawablePadding">0dp</item>
+        <item name="android:paddingTop">@dimen/toolbar_button_vertical_padding</item>
+        <item name="android:paddingBottom">@dimen/toolbar_button_vertical_padding</item>
+        <item name="android:paddingLeft">@dimen/toolbar_button_horizontal_padding</item>
+        <item name="android:paddingRight">@dimen/toolbar_button_horizontal_padding</item>
+        <item name="android:shadowColor">#DD000000</item>
+    </style>
+    <style name="DropTargetButtonContainer">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="SearchButton"/>
+</resources>
